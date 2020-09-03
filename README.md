@@ -1,2 +1,2 @@
-# LetsUpgrade-Python-B7
+# LetsUpgrade-Python-Essentials
 Python Assignments for LetsUpgrade
